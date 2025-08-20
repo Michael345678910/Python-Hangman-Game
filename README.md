@@ -19,6 +19,8 @@ This project was designed for the casual gamer audience or anyone interested in 
 
 # Usage Instructions:
 
+# File Pathway Tree/ File Directory:
+
 ## Installation & Setup:
 1.	Clone this repository to your local machine. Ensure that Python 3.11 is installed inside of a runnable IDE (Such as PyCharm).
 2.	Make sure that the Tkinter library, along with the rest of the more common Python libraries (string, random, os) are downloaded and installed.

@@ -48,7 +48,7 @@ ________________________________________
 -	**Lives & Hangman Image Drawing:** Each wrong guess reduces lives and adds a new part to the hangman drawing.
 -	**Win/Loss Conditions:**\
 o	 Win if all letters are revealed.\
-o	 Lose if lives reach zero and the word is fully revealed.
+o	 Lose if lives reach zero; afterwards, the word is fully revealed to the user in a game over screen.
 -	**Replayability:** After each game is completed, win or lose, players can choose to restart with a difficulty of their choice or exit the game.
 ________________________________________
 # Contributing to the Codebase
